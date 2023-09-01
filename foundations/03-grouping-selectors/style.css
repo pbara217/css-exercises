@@ -3,6 +3,8 @@
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 .click.left {
+    background-color: black;
+    color: white;
 
 }
 .click.right {
